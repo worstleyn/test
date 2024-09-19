@@ -8,6 +8,6 @@ ul{
     list-style-type: lower-roman;
 }
 .color{
-    color: crimson;
+    color: rgb(0, 255, 221);
     font-size: 2rem;
 }
