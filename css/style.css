@@ -1,0 +1,13 @@
+body{
+    background: url(../img/2.jpg);
+}
+.bold{
+    font-weight: bold;
+}
+ul{
+    list-style-type: lower-roman;
+}
+.color{
+    color: crimson;
+    font-size: 2rem;
+}
